@@ -2,18 +2,28 @@
 
 Notebooks from Machine Learning and Statistics lectures sept - Dec 2019
 
-#jupyter-example
+Getting started with Jupyter notebook
+## jupyter-example
+Playing with Jupyter.ipynb
 
-#jupyter-notebook-start-sept
-playing with jupyter notebooks
+## Coin flip
+coin_flip.ipynb
 
-#The Collatz Conjecture
+## The Collatz Conjecture
+collatz.py
 Short program to replicate the The Collatz Conjecture
 
 It takes a positive integer and performs a mathematic sequenece where the answer is always one
 
-# pyplot-two-variable
+## Object orientated Programming
+Python - Object Orientated Programming .ipynb
 
-# linear-regression
 
-#t-test
+## pyplot-two-variable
+Two variables plots.ipynb
+
+## linear-regression
+Regression in Python (Practice).ipynb
+
+## t-test
+T-test.ipynb
