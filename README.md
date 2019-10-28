@@ -42,4 +42,6 @@ T-test.ipynb
 https://nbviewer.jupyter.org/github/RitRa/Machine-Learning-and-statistics-lectures/blob/master/T-test.ipynb
 
 # Anova
+Analysis of variance (ANOVA).ipynb
+
 https://nbviewer.jupyter.org/github/RitRa/Machine-Learning-and-statistics-lectures/blob/master/Analysis%20of%20variance%20%28ANOVA%29.ipynb
